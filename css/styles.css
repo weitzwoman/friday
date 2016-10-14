@@ -10,3 +10,9 @@
 .codetitle {
   color: blue
 }
+.profilephoto {
+  float: right;
+  width: 300px;
+  padding: 6px;
+  margin: 12px;
+}
