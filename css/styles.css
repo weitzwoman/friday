@@ -13,6 +13,13 @@
 .profilephoto {
   float: right;
   width: 300px;
-  padding: 6px;
-  margin: 12px;
+  padding-right: 2px;
+  padding-left: 12px;
+}
+.metextbox {
+  margin-left: 12px;
+}
+.aboutsubtext {
+  padding-left: 15px;
+  font-style: italic;
 }
