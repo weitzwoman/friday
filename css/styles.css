@@ -23,3 +23,8 @@
   padding-left: 15px;
   font-style: italic;
 }
+.indexphoto {
+  text-align: center;
+  width: 100%;
+  border-radius: 5px;
+}
