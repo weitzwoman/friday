@@ -1,0 +1,10 @@
+.jumbotron {
+  background-color: tomato;
+}
+.jumbotron h1 {
+  color: blue;
+}
+.package {
+  width: 300px;
+  height: 150px;
+}
